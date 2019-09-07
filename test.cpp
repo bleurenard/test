@@ -7,4 +7,5 @@
 	int b=a++;
 	cout<<"Hello world!"<<endl;
 	cout<<"你好，世界！"<<endl;
+	cout<<"Bonjour à tous!"<<endl;
 }
